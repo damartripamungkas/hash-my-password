@@ -6,4 +6,17 @@ Step to install:
 2. import package 
 3. done
 
+# examples
+```
+$ git clone https://github.com/damartripamungkas/hash-my-password
+$ cd hash-my-password
+$ npm install
+```
+
+# tests
+```
+npm install
+npm test
+```
+
 contactus: damartripamungkas.github.io/portofolio
