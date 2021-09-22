@@ -1,0 +1,15 @@
+{
+  "name": "hash-my-password",
+  "version": "1.0.0",
+  "description": "hash password or string with keccak256",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [],
+  "author": "damartripamungkas",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.4.7"
+  }
+}
