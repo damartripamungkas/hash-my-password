@@ -18,5 +18,3 @@ $ npm install
 npm install
 npm test
 ```
-
-contactus: damartripamungkas.github.io/portofolio
