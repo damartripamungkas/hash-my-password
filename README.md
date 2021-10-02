@@ -7,10 +7,11 @@ Step to install:
 3. done
 
 # examples
-```
-$ git clone https://github.com/damartripamungkas/hash-my-password
-$ cd hash-my-password
-$ npm install
+```javascript
+const HashMyPassword = require('./index')
+const hash = new HashMyPassword()
+
+hash.hashMyPassword('my name is damar')
 ```
 
 # tests
